@@ -1,0 +1,2 @@
+# Copyright-Protection-Scheme-for-Digital-Images-Using-Visual-Cryptography
+ Visible digital watermarking is something that is visible on the content. Invisible watermarking on  the other hand can get a lot more interesting because the soon-to-be-criminal does not know that  there is extra information in the data that he’s trying to steal. Anything that one can “see” can be removed fairly easily though it  may require sophisticated software, it is definitely easier to remove something that one can see than removing something that one doesn’t know what to remove.
